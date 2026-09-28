@@ -7,27 +7,20 @@
 # NOTE that only one of the CV options should be selected, the first is for the
 #      Markdown formatted page while the second is generated using JSON.
 
+
+# 顶部主导航栏配置（中文版）
 main:
-  - title: "Publications"
+  - title: "关于我"
+    url: /
+
+  - title: "工程项目"
+    url: /portfolio/
+
+  - title: "发表论文"
     url: /publications/
 
-  - title: "Talks"
-    url: /talks/    
+  - title: "讲义与报告"
+    url: /talks/
 
-  - title: "Teaching"
-    url: /teaching/    
-    
-  - title: "Portfolio"
-    url: /portfolio/
-        
-  - title: "Blog Posts"
-    url: /year-archive/
-    
-  - title: "CV"
+  - title: "个人履历"
     url: /cv/
-    
-  # - title: "CV"
-  #   url: /cv-json/
-    
-  - title: "Guide"
-    url: /markdown/
