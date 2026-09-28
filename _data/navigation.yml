@@ -7,8 +7,6 @@
 # NOTE that only one of the CV options should be selected, the first is for the
 #      Markdown formatted page while the second is generated using JSON.
 
-
-# 顶部主导航栏配置（中文版）
 main:
   - title: "关于我"
     url: /
@@ -19,8 +17,11 @@ main:
   - title: "发表论文"
     url: /publications/
 
-  - title: "讲义与报告"
-    url: /talks/
+  - title: "讲义与培训"
+    url: /teaching/
+
+  - title: "技术博客"
+    url: /year-archive/
 
   - title: "个人履历"
     url: /cv/
