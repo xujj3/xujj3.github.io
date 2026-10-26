@@ -30,7 +30,7 @@ author:
   location         : "中国"
   employer         : "正泰集团"
   uri              : # URL
-  email            : "1092348412@qq.com" 
+  email            : # 不公开邮箱；技术交流走 GitHub
 
   # Academic websites
   academia         : # URL
@@ -38,10 +38,10 @@ author:
   googlescholar    : "https://scholar.google.com/citations?user=sCMwNp0AAAAJ&hl=zh-CN"
   inspire-hep      : # URL
   impactstory      : # URL
-  orcid            : "https://orcid.org/yourorcidurl"
+  orcid            : # URL（有 ORCID 再填，模板占位已清）
   semantic         : # URL
   ssrn             : # URL
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           : # URL
   researchgate     : # URL
   scopus           : # URL
   zotero           : # URL
