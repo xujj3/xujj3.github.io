@@ -2,16 +2,8 @@
 title: "石墨烯-铜复合导体电导率的微观机制"
 excerpt: "以 DFT / NEGF 计算石墨烯与铜体相、界面的弹道与界面输运，并量化主要散射机制对载流子迁移率的削弱。当前处于界面散射参数（p、R<sub>gb</sub>）反演阶段。"
 collection: portfolio
-order: 1
-header:
-  teaser: "teaser-transport.svg"
 
 ---
-
-<p align="center">
-  <img src="{{ site.baseurl }}/images/fig-graphene-cu-interface.svg" alt="石墨烯/铜界面输运模型示意" width="720">
-</p>
-<p align="center"><em>图 1 · 石墨烯置于 Cu(111) 表面，两侧为电极；电子穿越界面时的散射决定透射概率。</em></p>
 
 ## 科学问题
 

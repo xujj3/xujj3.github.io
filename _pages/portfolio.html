@@ -11,13 +11,9 @@ author_profile: true
   <p><strong>两项内容，一条主线。</strong>主业是把石墨烯-铜复合导体的电导率机理算清楚；配套工作是把「文献 → 数据 → 报告」这条流程自动化，让主业不必耗在搬运信息上。第三项是正在往宏观模型走的下一个环节，还没有算例，如实列出。</p>
 </div>
 
-{% assign items = site.portfolio | sort: "order" %}
-
-<div class="grid__wrapper">
-{% for post in items %}
-  {% include archive-single.html type="grid" %}
+{% for post in site.portfolio %}
+  {% include archive-single.html %}
 {% endfor %}
-</div>
 
 ---
 
