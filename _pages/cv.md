@@ -22,6 +22,20 @@ redirect_from:
 - 石墨烯-铜复合导体电子输运的微观机制研究：完成石墨烯与铜体相体系、石墨烯/铜界面的弹道及界面输运计算，并量化主要散射机制对载流子迁移率的影响；当前工作在界面散射参数（*p*、*R*<sub>gb</sub>）的反演环节
 - 建立科研流程自动化体系：将文献获取、语义检索、结构化字段抽取、技术材料生成串为五步管线，并整理为培训与考核体系，在企业内部覆盖 60 名核心技术工程师
 
+## 论文
+
+**Xu, J.**, Meng, K., Niu, Y., Zhang, C., Xu, K., Rong, J., Wei, Y., & Yu, X. (2023).
+Deciphering the electronic-level mechanism of Na⁺ transport in a graphdiyne desalination membrane with periodic nanopores.
+*Desalination*, 546, 116183.
+[doi:10.1016/j.desal.2022.116183](https://doi.org/10.1016/j.desal.2022.116183) · 第一作者
+
+Meng, K., Niu, Y., **Xu, J.**, Ma, Y., Zhang, C., Ming, S., Yu, X., & Rong, J. (2022).
+Electronic-level deciphering of the desalination mechanism of high-performance graphenylene membranes.
+*Journal of Membrane Science*, 664, 121068.
+[doi:10.1016/j.memsci.2022.121068](https://doi.org/10.1016/j.memsci.2022.121068)
+
+被引 20 次（Google Scholar，2026-10）· 主页：[jiong Xu](https://scholar.google.com/citations?user=sCMwNp0AAAAJ)
+
 ## 研究兴趣
 
 - 电子输运的微观机制：第一性原理与量子输运计算（DFT / NEGF）
