@@ -28,24 +28,24 @@ redirect_from:
   </colgroup>
   <thead>
     <tr>
-      <th></th>
+      <th style="text-align: center;"></th>
       <th>主课题：电导率的微观机制</th>
       <th>支撑工作：科研流程自动化</th>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <td><strong>科学问题</strong></td>
+      <td style="text-align: center;"><strong>科学问题</strong></td>
       <td>石墨烯与铜各自的输运能力、界面电子散射行为、各散射机制对载流子迁移率的贡献</td>
       <td>文献如何转化为可检索的知识、可计算的结构化数据、可交付的技术材料</td>
     </tr>
     <tr>
-      <td><strong>方法</strong></td>
+      <td style="text-align: center;"><strong>方法</strong></td>
       <td>DFT / NEGF 计算体相与界面的弹道及界面输运；引入散射机制并量化其对迁移率的影响</td>
       <td>文献获取 → 语义分块与向量检索 → 字段抽取 → 报告生成 → 企业知识库调用</td>
     </tr>
     <tr>
-      <td><strong>阶段产出</strong></td>
+      <td style="text-align: center;"><strong>阶段产出</strong></td>
       <td>弹道输运上限、界面透射行为、各散射机制的相对贡献</td>
       <td>一条可复现的自动化流程，及配套的培训与考核体系</td>
     </tr>
