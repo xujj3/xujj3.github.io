@@ -4,7 +4,7 @@ excerpt: "将反演所得界面参数输入宏观求解器，考察高频趋肤�
 collection: portfolio
 order: 3
 header:
-  teaser: "fig-research-roadmap.svg"
+  teaser: "teaser-roadmap.svg"
 
 ---
 

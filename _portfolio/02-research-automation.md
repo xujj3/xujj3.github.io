@@ -4,7 +4,7 @@ excerpt: "将文献获取、语义检索、字段抽取、报告生成的科研�
 collection: portfolio
 order: 2
 header:
-  teaser: "fig-five-step-pipeline.svg"
+  teaser: "teaser-pipeline.svg"
 
 ---
 

@@ -4,7 +4,7 @@ excerpt: "以 DFT / NEGF 计算石墨烯与铜体相、界面的弹道与界面�
 collection: portfolio
 order: 1
 header:
-  teaser: "fig-graphene-cu-interface.svg"
+  teaser: "teaser-transport.svg"
 
 ---
 
