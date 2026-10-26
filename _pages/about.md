@@ -56,10 +56,9 @@ redirect_from:
 
 ## 论文
 
-- **Xu, J.**, Meng, K., Niu, Y., Zhang, C., Xu, K., Rong, J., Wei, Y., & Yu, X. (2023). Deciphering the electronic-level mechanism of Na⁺ transport in a graphdiyne desalination membrane with periodic nanopores. *Desalination*, 546, 116183. [doi:10.1016/j.desal.2022.116183](https://doi.org/10.1016/j.desal.2022.116183)
-- Meng, K., Niu, Y., **Xu, J.**, Ma, Y., Zhang, C., Ming, S., Yu, X., & Rong, J. (2022). Electronic-level deciphering of the desalination mechanism of high-performance graphenylene membranes. *Journal of Membrane Science*, 664, 121068. [doi:10.1016/j.memsci.2022.121068](https://doi.org/10.1016/j.memsci.2022.121068)
+**Xu, J.**, Meng, K., Niu, Y., Zhang, C., Xu, K., Rong, J., Wei, Y., & Yu, X. (2023). Deciphering the electronic-level mechanism of Na⁺ transport in a graphdiyne desalination membrane with periodic nanopores. *Desalination*, 546, 116183. [doi:10.1016/j.desal.2022.116183](https://doi.org/10.1016/j.desal.2022.116183)
 
-两篇均为电子级输运计算，对象是膜分离体系。当前的石墨烯-铜课题沿用同一方法框架，换的是材料体系与应用场景。
+该工作以电子级输运计算解析膜分离体系中的离子传输机制。当前的石墨烯-铜课题沿用同一方法框架，换的是材料体系与应用场景。
 
 ---
 

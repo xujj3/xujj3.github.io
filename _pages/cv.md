@@ -29,11 +29,6 @@ Deciphering the electronic-level mechanism of Na⁺ transport in a graphdiyne de
 *Desalination*, 546, 116183.
 [doi:10.1016/j.desal.2022.116183](https://doi.org/10.1016/j.desal.2022.116183) · 第一作者
 
-Meng, K., Niu, Y., **Xu, J.**, Ma, Y., Zhang, C., Ming, S., Yu, X., & Rong, J. (2022).
-Electronic-level deciphering of the desalination mechanism of high-performance graphenylene membranes.
-*Journal of Membrane Science*, 664, 121068.
-[doi:10.1016/j.memsci.2022.121068](https://doi.org/10.1016/j.memsci.2022.121068)
-
 被引 20 次（Google Scholar，2026-10）· 主页：[jiong Xu](https://scholar.google.com/citations?user=sCMwNp0AAAAJ)
 
 ## 研究兴趣
