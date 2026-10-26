@@ -2,7 +2,16 @@
 title: "从文献到决策：科研流程自动化"
 excerpt: "将文献获取、语义检索、字段抽取、报告生成的科研流程串为五步管线，并整理为培训与考核体系，在企业内部覆盖 60 名核心技术工程师。"
 collection: portfolio
+order: 2
+header:
+  teaser: "fig-five-step-pipeline.svg"
+
 ---
+
+<p align="center">
+  <img src="{{ site.baseurl }}/images/fig-five-step-pipeline.svg" alt="五步科研流程管线" width="900">
+</p>
+<p align="center"><em>图 1 · 五步管线及各步对应的信息形态转化。</em></p>
 
 ## 科学问题
 

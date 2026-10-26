@@ -1,0 +1,69 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1060 340" width="1060" height="340" font-family="Helvetica, Arial, 'PingFang SC', 'Microsoft YaHei', sans-serif">
+  <rect width="1060" height="340" fill="#ffffff"/>
+
+  <text x="28" y="40" font-size="20" font-weight="600" fill="#222">五步科研流程管线</text>
+  <text x="28" y="64" font-size="13" fill="#777">从外部情报到企业内部知识 —— 每一步都是一次信息形态的转化</text>
+
+  <defs>
+    <marker id="a1" markerWidth="10" markerHeight="10" refX="7" refY="3" orient="auto">
+      <path d="M0,0 L8,3 L0,6 z" fill="#8a8a8a"/>
+    </marker>
+  </defs>
+
+  <!-- step boxes -->
+  <g>
+    <rect x="20" y="110" width="170" height="96" rx="8" fill="#eef4fb" stroke="#7ba7d4" stroke-width="1.6"/>
+    <text x="105" y="136" font-size="12" fill="#5a86b3" text-anchor="middle">01</text>
+    <text x="105" y="160" font-size="14" font-weight="600" fill="#1f3a56" text-anchor="middle">文献获取</text>
+    <text x="105" y="182" font-size="12" fill="#4a6a86" text-anchor="middle">按主题抓取</text>
+    <text x="105" y="199" font-size="12" fill="#4a6a86" text-anchor="middle">按时间入库</text>
+  </g>
+  <g>
+    <rect x="226" y="110" width="170" height="96" rx="8" fill="#eef4fb" stroke="#7ba7d4" stroke-width="1.6"/>
+    <text x="311" y="136" font-size="12" fill="#5a86b3" text-anchor="middle">02</text>
+    <text x="311" y="160" font-size="14" font-weight="600" fill="#1f3a56" text-anchor="middle">知识库构建</text>
+    <text x="311" y="182" font-size="12" fill="#4a6a86" text-anchor="middle">解析 · 分块</text>
+    <text x="311" y="199" font-size="12" fill="#4a6a86" text-anchor="middle">向量化 · 检索</text>
+  </g>
+  <g>
+    <rect x="432" y="110" width="170" height="96" rx="8" fill="#eef4fb" stroke="#7ba7d4" stroke-width="1.6"/>
+    <text x="517" y="136" font-size="12" fill="#5a86b3" text-anchor="middle">03</text>
+    <text x="517" y="160" font-size="14" font-weight="600" fill="#1f3a56" text-anchor="middle">结构化抽取</text>
+    <text x="517" y="182" font-size="12" fill="#4a6a86" text-anchor="middle">体系 · 工艺</text>
+    <text x="517" y="199" font-size="12" fill="#4a6a86" text-anchor="middle">性能 · 条件</text>
+  </g>
+  <g>
+    <rect x="638" y="110" width="170" height="96" rx="8" fill="#eef4fb" stroke="#7ba7d4" stroke-width="1.6"/>
+    <text x="723" y="136" font-size="12" fill="#5a86b3" text-anchor="middle">04</text>
+    <text x="723" y="160" font-size="14" font-weight="600" fill="#1f3a56" text-anchor="middle">技术材料生成</text>
+    <text x="723" y="182" font-size="12" fill="#4a6a86" text-anchor="middle">基于抽取结果</text>
+    <text x="723" y="199" font-size="12" fill="#4a6a86" text-anchor="middle">生成并迭代</text>
+  </g>
+  <g>
+    <rect x="844" y="110" width="170" height="96" rx="8" fill="#eaf6ef" stroke="#6fb08b" stroke-width="1.6"/>
+    <text x="929" y="136" font-size="12" fill="#4e8f6b" text-anchor="middle">05</text>
+    <text x="929" y="160" font-size="14" font-weight="600" fill="#1d4a33" text-anchor="middle">企业知识库</text>
+    <text x="929" y="182" font-size="12" fill="#3f6b55" text-anchor="middle">调用私有知识</text>
+    <text x="929" y="199" font-size="12" fill="#3f6b55" text-anchor="middle">判断落地可行性</text>
+  </g>
+
+  <!-- arrows -->
+  <line x1="192" y1="158" x2="222" y2="158" stroke="#8a8a8a" stroke-width="2" marker-end="url(#a1)"/>
+  <line x1="398" y1="158" x2="428" y2="158" stroke="#8a8a8a" stroke-width="2" marker-end="url(#a1)"/>
+  <line x1="604" y1="158" x2="634" y2="158" stroke="#8a8a8a" stroke-width="2" marker-end="url(#a1)"/>
+  <line x1="810" y1="158" x2="840" y2="158" stroke="#8a8a8a" stroke-width="2" marker-end="url(#a1)"/>
+
+  <!-- transformation labels -->
+  <g font-size="12" fill="#8a6d3b">
+    <text x="105" y="238" text-anchor="middle">人找信息 → 信息找人</text>
+    <text x="311" y="238" text-anchor="middle">静态档案 → 可检索语料</text>
+    <text x="517" y="238" text-anchor="middle">文本 → 可比较数据</text>
+    <text x="723" y="238" text-anchor="middle">数据 → 可交付产出</text>
+    <text x="929" y="238" text-anchor="middle">外部情报 × 内部经验</text>
+  </g>
+
+  <!-- bottom note -->
+  <line x1="28" y1="272" x2="1032" y2="272" stroke="#e3e3e3" stroke-width="1"/>
+  <text x="28" y="298" font-size="12" fill="#777">每步均需可复现：输入、参数、输出均可追溯，否则流程只是黑箱。</text>
+  <text x="28" y="318" font-size="12" fill="#777">以 60 名核心技术工程师的培训与考核验证可用性，五步对应五道实操题。</text>
+</svg>

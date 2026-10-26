@@ -1,0 +1,92 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 520" width="800" height="520" font-family="Helvetica, Arial, 'PingFang SC', 'Microsoft YaHei', sans-serif">
+  <rect width="800" height="520" fill="#ffffff"/>
+
+  <!-- title -->
+  <text x="30" y="38" font-size="20" font-weight="600" fill="#222">石墨烯 / 铜界面输运模型</text>
+  <text x="30" y="62" font-size="13" fill="#777">Graphene / Cu interface — 侧视示意</text>
+
+  <!-- electrodes -->
+  <rect x="30" y="250" width="80" height="240" rx="6" fill="#4a4a4a"/>
+  <text x="70" y="380" font-size="14" fill="#fff" text-anchor="middle" transform="rotate(-90 70 380)">电极</text>
+  <rect x="690" y="250" width="80" height="240" rx="6" fill="#4a4a4a"/>
+  <text x="730" y="380" font-size="14" fill="#fff" text-anchor="middle" transform="rotate(-90 730 380)">电极</text>
+
+  <!-- Cu layers -->
+  <g fill="#c9803d" stroke="#8b5a2b" stroke-width="1.5">
+    <!-- row 1 -->
+    <circle cx="150" cy="352" r="16"/><circle cx="190" cy="352" r="16"/><circle cx="230" cy="352" r="16"/>
+    <circle cx="270" cy="352" r="16"/><circle cx="310" cy="352" r="16"/><circle cx="350" cy="352" r="16"/>
+    <circle cx="390" cy="352" r="16"/><circle cx="430" cy="352" r="16"/><circle cx="470" cy="352" r="16"/>
+    <circle cx="510" cy="352" r="16"/><circle cx="550" cy="352" r="16"/><circle cx="590" cy="352" r="16"/>
+    <circle cx="630" cy="352" r="16"/><circle cx="670" cy="352" r="16"/>
+    <!-- row 2 (offset) -->
+    <circle cx="170" cy="392" r="16"/><circle cx="210" cy="392" r="16"/><circle cx="250" cy="392" r="16"/>
+    <circle cx="290" cy="392" r="16"/><circle cx="330" cy="392" r="16"/><circle cx="370" cy="392" r="16"/>
+    <circle cx="410" cy="392" r="16"/><circle cx="450" cy="392" r="16"/><circle cx="490" cy="392" r="16"/>
+    <circle cx="530" cy="392" r="16"/><circle cx="570" cy="392" r="16"/><circle cx="610" cy="392" r="16"/>
+    <circle cx="650" cy="392" r="16"/>
+    <!-- row 3 -->
+    <circle cx="150" cy="432" r="16"/><circle cx="190" cy="432" r="16"/><circle cx="230" cy="432" r="16"/>
+    <circle cx="270" cy="432" r="16"/><circle cx="310" cy="432" r="16"/><circle cx="350" cy="432" r="16"/>
+    <circle cx="390" cy="432" r="16"/><circle cx="430" cy="432" r="16"/><circle cx="470" cy="432" r="16"/>
+    <circle cx="510" cy="432" r="16"/><circle cx="550" cy="432" r="16"/><circle cx="590" cy="432" r="16"/>
+    <circle cx="630" cy="432" r="16"/><circle cx="670" cy="432" r="16"/>
+    <!-- row 4 -->
+    <circle cx="170" cy="472" r="16"/><circle cx="210" cy="472" r="16"/><circle cx="250" cy="472" r="16"/>
+    <circle cx="290" cy="472" r="16"/><circle cx="330" cy="472" r="16"/><circle cx="370" cy="472" r="16"/>
+    <circle cx="410" cy="472" r="16"/><circle cx="450" cy="472" r="16"/><circle cx="490" cy="472" r="16"/>
+    <circle cx="530" cy="472" r="16"/><circle cx="570" cy="472" r="16"/><circle cx="610" cy="472" r="16"/>
+    <circle cx="650" cy="472" r="16"/>
+  </g>
+  <text x="410" y="512" font-size="13" fill="#8b5a2b" text-anchor="middle">Cu (111)</text>
+
+  <!-- graphene zigzag -->
+  <g stroke="#1a1a1a" stroke-width="3" fill="none">
+    <polyline points="150,312 170,296 190,312 210,296 230,312 250,296 270,312 290,296 310,312 330,296 350,312 370,296 390,312 410,296 430,312 450,296 470,312 490,296 510,312 530,296 550,312 570,296 590,312 610,296 630,312 650,296 670,312"/>
+  </g>
+  <g fill="#1a1a1a">
+    <circle cx="150" cy="312" r="5"/><circle cx="190" cy="312" r="5"/><circle cx="230" cy="312" r="5"/>
+    <circle cx="270" cy="312" r="5"/><circle cx="310" cy="312" r="5"/><circle cx="350" cy="312" r="5"/>
+    <circle cx="390" cy="312" r="5"/><circle cx="430" cy="312" r="5"/><circle cx="470" cy="312" r="5"/>
+    <circle cx="510" cy="312" r="5"/><circle cx="550" cy="312" r="5"/><circle cx="590" cy="312" r="5"/>
+    <circle cx="630" cy="312" r="5"/><circle cx="670" cy="312" r="5"/>
+    <circle cx="170" cy="296" r="5"/><circle cx="210" cy="296" r="5"/><circle cx="250" cy="296" r="5"/>
+    <circle cx="290" cy="296" r="5"/><circle cx="330" cy="296" r="5"/><circle cx="370" cy="296" r="5"/>
+    <circle cx="410" cy="296" r="5"/><circle cx="450" cy="296" r="5"/><circle cx="490" cy="296" r="5"/>
+    <circle cx="530" cy="296" r="5"/><circle cx="570" cy="296" r="5"/><circle cx="610" cy="296" r="5"/>
+    <circle cx="650" cy="296" r="5"/>
+  </g>
+  <text x="410" y="282" font-size="13" fill="#1a1a1a" text-anchor="middle">石墨烯</text>
+
+  <!-- interlayer spacing annotation -->
+  <line x1="120" y1="312" x2="120" y2="352" stroke="#0a7" stroke-width="1.5" stroke-dasharray="3,3"/>
+  <line x1="112" y1="312" x2="128" y2="312" stroke="#0a7" stroke-width="1.5"/>
+  <line x1="112" y1="352" x2="128" y2="352" stroke="#0a7" stroke-width="1.5"/>
+  <text x="112" y="337" font-size="12" fill="#0a7" text-anchor="end">d</text>
+
+  <!-- current arrow -->
+  <defs>
+    <marker id="arw" markerWidth="10" markerHeight="10" refX="8" refY="3" orient="auto">
+      <path d="M0,0 L8,3 L0,6 z" fill="#c0392b"/>
+    </marker>
+  </defs>
+  <line x1="300" y1="140" x2="500" y2="140" stroke="#c0392b" stroke-width="2.5" marker-end="url(#arw)"/>
+  <text x="400" y="128" font-size="13" fill="#c0392b" text-anchor="middle">电流方向</text>
+
+  <!-- electron path through interface -->
+  <line x1="250" y1="180" x2="355" y2="300" stroke="#c0392b" stroke-width="1.8" stroke-dasharray="5,4" marker-end="url(#arw)"/>
+  <text x="243" y="186" font-size="12" fill="#c0392b" text-anchor="end">电子</text>
+
+  <!-- scatthering symbol at interface -->
+  <g stroke="#c0392b" stroke-width="1.6" fill="none">
+    <path d="M352,306 q-14,-16 -26,-22"/>
+    <path d="M352,306 q-6,-20 4,-30"/>
+  </g>
+  <text x="378" y="228" font-size="12" fill="#c0392b">界面散射</text>
+
+  <!-- legend -->
+  <g font-size="12" fill="#555">
+    <text x="30" y="80">示意：石墨烯置于 Cu(111) 表面，两侧为电极。</text>
+    <text x="30" y="98">透射概率随能量变化即界面输运的核心量。</text>
+  </g>
+</svg>
