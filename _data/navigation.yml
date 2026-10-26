@@ -3,25 +3,17 @@
 # Changing the order here will adjust the order and you can also add additional
 # links. Removing a link prevents it from showing in the header, but does not
 # prevent it from being included in the site.
-#
-# NOTE that only one of the CV options should be selected, the first is for the
-#      Markdown formatted page while the second is generated using JSON.
 
 main:
   - title: "关于我"
     url: /
 
-  - title: "工程项目"
+  - title: "工作"
     url: /portfolio/
 
-  - title: "发表论文"
-    url: /publications/
-
-  - title: "讲义与培训"
-    url: /teaching/
-
-  - title: "技术博客"
-    url: /year-archive/
-
-  - title: "个人履历"
-    url: /cv/
+# 三栏结构的依据：内容量决定栏目数，不按学科分类凑满。
+# - 「履历」暂不出现：素材（教育背景/任职时间）待补，补齐后加回
+# - 「发表论文」暂不单开：第一个 DOI / 公开技术报告出现后再升级
+# - 「讲义与培训」并入「工作」各条目的「相关材料」，不单独占栏目
+# - 「技术博客」等有连载再开，现在开是空承诺
+# - 不单设「资料」页：资料跟随项目走（参照 janosh.dev 的内联做法）
